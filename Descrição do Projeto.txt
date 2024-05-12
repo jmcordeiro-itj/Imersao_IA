@@ -1,0 +1,55 @@
+Chatbot Monitor Estudos
+
+A inteligência artificial tem o potencial de revolucionar a forma como os estudntes se preparam para os estudos. 
+Ao oferecer serviços inovadores e personalizados, as plataformas de IA podem ajudar os candidatos a alcançar seus objetivos e ter mais sucesso no exame.
+
+Possiblidades a serem usadas:
+
+1. Personalização do estudo:
+
+a) Análise de perfil: Através de questionários e testes, a IA pode identificar pontos fortes e fracos do candidato, definindo um plano de estudos personalizado.
+b) Recomendação de materiais: A IA pode sugerir livros, apostilas, videoaulas, exercícios e outros materiais de acordo com o perfil e necessidades do candidato.
+c) Adaptação do conteúdo: A IA pode adaptar o conteúdo de estudo à realidade do candidato, considerando seu ritmo de aprendizado e estilo de aprendizagem.
+
+2. Simulados e correção:
+
+a) Simulados personalizados: A IA pode gerar simulados com questões personalizadas, de acordo com o perfil do candidato e a fase de preparação.
+b) Correção instantânea: A IA pode corrigir as provas dos simulados instantaneamente, fornecendo feedback detalhado sobre cada questão.
+c) Análise de desempenho: A IA pode analisar o desempenho do candidato nos simulados, identificando áreas que precisam de mais atenção.
+
+3. Treino de habilidades:
+
+a) Treino de redação: A IA pode auxiliar na construção de redações, fornecendo feedback sobre estilo, gramática, coerência e argumentação.
+b) Exercícios interativos: A IA pode oferecer exercícios interativos para treinar habilidades específicas, como matemática, língua portuguesa e conhecimentos gerais.
+c) Simulação de entrevista: A IA pode simular entrevistas de vestibular, ajudando o candidato a se preparar para o processo seletivo.
+
+
+Detalhes dos Objetivos
+
+Excemplo de Análise de Perfil: Avaliar o perfil acadêmico de estudantes do ensino médio que estão se preparando para o vestibular.
+
+Áreas de Estudo / Especialidades:
+
+a) Matemática: Avaliação de habilidades matemáticas, incluindo cálculo, álgebra, geometria e estatística.
+b) Língua Portuguesa: Avaliação de competências linguísticas, compreensão de texto, gramática, interpretação de texto e redação.
+c) Ciências da Natureza: Avaliação de conhecimentos em biologia, química e física.
+d) Ciências Humanas: Avaliação de conhecimentos em história, geografia, sociologia e filosofia.
+
+Matemática , Língua Portuguesa, Ciências da Natureza, Ciências Humanas
+
+Outras Variáveis Relevantes:
+
+Estilo de Aprendizagem: Avaliação do estilo de aprendizagem preferencial do aluno, como visual, auditivo ou cinestésico.
+Motivação: Avaliação do nível de motivação e interesse do aluno em relação aos estudos.
+Organização e Gestão do Tempo: Avaliação das habilidades de organização e gestão do tempo do aluno.
+Autoconfiança: Avaliação do nível de autoconfiança do aluno em relação às suas habilidades acadêmicas.
+Expectativas e Objetivos Futuros: Avaliação das expectativas e objetivos futuros do aluno em relação à sua educação e carreira.
+Com base nessas áreas de estudo e variáveis adicionais, seria possível criar um questionário abrangente que avaliasse diversos aspectos do perfil acadêmico do estudante, ajudando a identificar pontos fortes e áreas que necessitam de maior desenvolvimento. Cada seção do questionário poderia conter perguntas específicas relacionadas à respectiva área de estudo ou variável, garantindo uma avaliação completa e detalhada.
+
+Foi criado um simples chat para que seja focado nas áreas de estudo.
+
+Baixei do link https://download.inep.gov.br/download/enem/matriz_referencia.pdf,  o pdf do INEP, que contém as diretrizes de aprendizado. 
+Com base nela, usamos Google AI, para nos fazer um resumo, e por área de estudo e especialidade.
+Com essa informações colocamos no nosso chat, diretrizes para que a assunto, sejam dentro deste contexto.
+
+
